@@ -1,1 +1,1 @@
-# nodejs-mongodb-messager-app
+# Messager application
